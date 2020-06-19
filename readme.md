@@ -1,3 +1,1 @@
-# Hello
-
-# This is a Git tutorial lesson
+# This is Git Tutorial
